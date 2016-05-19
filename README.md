@@ -1,2 +1,2 @@
-# sctrcloud
-Scattercode cloud projects
+# cloudy-spring-demo
+A POC demonstrating a web application connecting to a couple of APIs via Eureka.
